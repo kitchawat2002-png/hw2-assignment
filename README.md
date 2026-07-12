@@ -11,3 +11,6 @@ So the idea is to remove sticks to those numbers into the oppenent's turn, and t
   Sticks in the pile % 3 = 1 : remove 1 or 2 does matter (You definitely lose if the opponent play it right)
   Sticks in the pile % 3 = 2 : remove 1 sticks
 As long as the computer does start the game in the losing position (1, 4, 7, 10, 13,... or n % 3 = 1) the computer will always win.
+
+## full report with flowchart
+https://docs.google.com/document/d/1w28RWzqh0e_PU1i5jpKvi3sKtrBqepIKOaBKiy__Hak/edit?usp=sharing
